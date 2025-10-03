@@ -80,6 +80,7 @@ EventHub is a beautifully designed iOS application that allows users to register
 </tr>
 </table>
 <br>
+</div>
 
 ## 🚀 Installation
 

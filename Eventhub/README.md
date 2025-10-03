@@ -63,50 +63,23 @@ EventHub is a beautifully designed iOS application that allows users to register
 
 </div>
 
-## 📱 Screenshots
-
+📱 Screenshots
 <div align="center">
-
-### Registration Screen
-*Clean and intuitive form with validation*
-
-```
-┌──────────────────────┐
-│  📅 Event Registration│
-│                       │
-│  👤 Full Name         │
-│  ✉️  Email            │
-│  📆 Age: 18           │
-│  👥 Gender            │
-│  🎓 Student Toggle    │
-│                       │
-│  [✓ Submit]           │
-└──────────────────────┘
-```
-
-### Confirmation Screen
-*Beautiful success feedback*
-
-```
-┌──────────────────────┐
-│                       │
-│       ✅              │
-│   Thank you for       │
-│   registering!        │
-│                       │
-│  ┌─────────────────┐ │
-│  │ 👤 Name: John   │ │
-│  │ ✉️  Email: ...  │ │
-│  │ 📆 Age: 25      │ │
-│  │ 👥 Gender: Male │ │
-│  │ 🎓 Student: Yes │ │
-│  └─────────────────┘ │
-│                       │
-│  [+ Register Another] │
-└──────────────────────┘
-```
-
-</div>
+<table>
+<tr>
+<td width="50%" align="center">
+<h3>📋 Registration Screen</h3>
+<img src="images/Registration.png" alt="Registration Screen" width="300"/>
+<p><em>Clean and intuitive form with validation</em></p>
+</td>
+<td width="50%" align="center">
+<h3>✅ Confirmation Screen</h3>
+<img src="images/Confirmation.png" alt="Confirmation Screen" width="300"/>
+<p><em>Beautiful success feedback with details</em></p>
+</td>
+</tr>
+</table>
+<br>
 
 ## 🚀 Installation
 
@@ -315,8 +288,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Dhruv Rasikbhai Jivani**
 
-- GitHub: [@yourusername](https://github.com/yourusername)
-- Email: your.email@example.com
+- GitHub: [@DhruvJivani](https://github.com/dhruvjivani/Eventhub)
+- Email: dhruvjivani001@gmail.com
 
 ## 🙏 Acknowledgments
 
